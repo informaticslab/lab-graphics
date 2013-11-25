@@ -1,0 +1,3 @@
+If we do not get the page control dots implemented within the app before the demo, please use the files, 'help_content_no_page_control.png' and 'help_content_no_page_control@2x.png' (instead of 'help_content.png' and 'help_content@2x.png').
+
+Thanks!
